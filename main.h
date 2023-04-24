@@ -219,4 +219,4 @@ long int convert_size_unsgnd(unsigned long int num, int size);
 
 
 
-#endif /*main_h*
+#endif /* MAIN_H */
